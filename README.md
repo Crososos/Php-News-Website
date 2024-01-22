@@ -1,0 +1,1 @@
+Php-Boostrap kullanılarak yapılmış dinamik bir web sitesidir. Veritabanı içiçn gerekli olan sql dosyanı içinde bulunmaktadır. Haber ekleme, site içeriğini değiştirme, sayfalar arasında değişikler yapma, iletişim kısımlarının tamamı dinamik yapıda oluşturulmuştur.
